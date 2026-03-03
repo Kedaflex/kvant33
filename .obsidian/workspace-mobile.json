@@ -11,10 +11,14 @@
             "id": "122a615184d8ccff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Курс Python/Блок 1/01-Привет-Python.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "01-Привет-Python"
             }
           }
         ]
@@ -158,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a4082bf86956b4",
+  "active": "122a615184d8ccff",
   "lastOpenFiles": [
     "Го.md"
   ]
